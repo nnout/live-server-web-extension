@@ -6,6 +6,11 @@
         "files.trimTrailingWhitespace": false,
         "editor.minimap.enabled": false
     },
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#491658",
+        "titleBar.activeBackground": "#661E7C",
+        "titleBar.activeForeground": "#FDFAFE"
+    },
     // "liveServer.settings.proxy": {
     //     "enable": true,
     //     "baseUri": "/",
